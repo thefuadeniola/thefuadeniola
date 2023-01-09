@@ -32,4 +32,4 @@ Operating System Familiar with
 
 <img src="https://github-readme-stats.vercel.app/api?username=theylovefuad&count_private=true&theme=radical&show_icons=true" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theylovefuad &layout=compact" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theylovefuad)](https://github.com/anuraghazra/github-readme-stats)
