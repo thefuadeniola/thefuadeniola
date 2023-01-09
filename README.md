@@ -8,5 +8,5 @@
 
 I've worked with
 <p>
- <img alt='React' src="https://img.shields.io/badge/React-#61DAFB?logo=react&logoColor=white&style=ShieldStyle" />
+ <img alt='React' src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=ShieldStyle" />
 </p>
