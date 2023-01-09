@@ -24,3 +24,12 @@ My preferred IDE and version control software
  <img alt='Git' src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=ShieldStyle" />
  <img alt='Github' src="https://img.shields.io/badge/Github-F05032?logo=github&logoColor=white&style=ShieldStyle" />
 </p>
+
+Operating System Familiar with
+<p>
+ <img alt='Windows' src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=ShieldStyle" />
+</p>
+
+<img src="https://github-readme-stats.vercel.app/api?username=theylovefuad&count_private=true&theme=radical&show_icons=true" />
+
+<img src=https://github-readme-stats.vercel.app/api/top-langs/?username=theylovefuad &layout=compact />
