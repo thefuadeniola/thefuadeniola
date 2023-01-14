@@ -1,35 +1,37 @@
- Hi there 👋, I'm Fuad
- 
-- 🌱 I’m currently learning Typescript
-- 👯 I’m looking to collaborate on Open Source Projects
-- 💬 Ask me about React, Javascript
-- 📫 Reach me at leyefuad@gmail.com
-- ⚡ Fun fact: follow me to find out!
+<h1 align="center">Hi 👋, I'm Olaleye Fuad</h1>
+<h3 align="center">Frontend Developer from Lagos, Nigeria</h3>
+<img align="right" alt="astro" width="400" src="https://fuadleye.netlify.app/static/media/bounce.4198e10b3dafe9cf522e.png">
 
-I'm skilled at
-<p>
- <img alt='React' src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=ShieldStyle" />
- <img alt='Javascript' src="https://img.shields.io/badge/Javascript-F7DF1E?logo=javascript&logoColor=white&style=ShieldStyle" />
- <img alt='Django' src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=ShieldStyle" />
- <img alt='HTML' src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=ShieldStyle" />
- <img alt='CSS' src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=ShieldStyle" />
- <img alt='Tailwind' src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwind css&logoColor=white&style=ShieldStyle" />
- <img alt='Bootstrap' src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=ShieldStyle" />
- <img alt='Figma' src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=ShieldStyle" />
+
+
+- 🔭 I’m currently working on **a job seeking platform with React**
+
+- 🌱 I’m currently learning **Redux**
+
+- 👨‍💻 All of my projects are available at [fuadleye.netlify.app](fuadleye.netlify.app)
+
+- 💬 Ask me about **react, javascript**
+
+- 📫 How to reach me **leyefuad@gmail.com**
+
+- ⚡ Fun fact **follow me to find out!**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://codepen.io/theylovefuad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="theylovefuad" height="30" width="40" /></a>
+<a href="https://twitter.com/theylovefuad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="theylovefuad" height="30" width="40" /></a>
+<a href="https://instagram.com/theylovefuad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="theylovefuad" height="30" width="40" /></a>
 </p>
 
-My preferred IDE and version control software
-<p>
- <img alt='VS Code' src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visual studio code&logoColor=white&style=ShieldStyle" />
- <img alt='Git' src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=ShieldStyle" />
- <img alt='Github' src="https://img.shields.io/badge/Github-F05032?logo=github&logoColor=white&style=ShieldStyle" />
-</p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-Operating System Familiar with
-<p>
- <img alt='Windows' src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=ShieldStyle" />
-</p>
+
 
 <img src="https://github-readme-stats.vercel.app/api?username=theylovefuad&count_private=true&theme=radical&show_icons=true" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theylovefuad)](https://github.com/anuraghazra/github-readme-stats)
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=theylovefuad" alt="theylovefuad" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/theylovefuad" target="blank"><img src="https://img.shields.io/twitter/follow/theylovefuad?logo=twitter&style=for-the-badge" alt="theylovefuad" /></a> </p>
