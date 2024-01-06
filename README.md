@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Olaleye Fuad</h1>
 <h3 align="center">Frontend Developer from Lagos, Nigeria</h3>
-<img align="right" alt="astro" width="400" src="https://blob:https://designstripe.com/923bf9ef-be89-4c09-8594-8b8a08f5f1a1">
+<img align="right" alt="astro" width="400" src="https://drive.google.com/file/d/1dLn6ryeLu0HBhqZd-YkEylB_BnueEYwg/view?usp=drivesdk">
 
 
 
