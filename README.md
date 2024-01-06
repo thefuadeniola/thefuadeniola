@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Olaleye Fuad</h1>
 <h3 align="center">Frontend Developer from Lagos, Nigeria</h3>
-<img align="right" alt="astro" width="400" src="https://fuadleye.netlify.app/static/media/bounce.4198e10b3dafe9cf522e.png">
+<img align="right" alt="astro" width="400" src="https://blob:https://designstripe.com/923bf9ef-be89-4c09-8594-8b8a08f5f1a1">
 
 
 
-- 🔭 I’m currently working on **a job seeking platform with React**
+- 🔭 I’m currently working on **GitHub Wrapped**, stay tuned
 
-- 🌱 I’m currently learning **Redux**
+- 🌱 I’m currently learning **Node JS**
 
 - 👨‍💻 All of my projects are available at [fuadleye.netlify.app](fuadleye.netlify.app)
 
-- 💬 Ask me about **react, javascript**
+- 💬 Ask me about **react, next js, javascript**
 
 - 📫 How to reach me **leyefuad@gmail.com**
 
