@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Node JS**
 
-- 👨‍💻 All of my projects are available at [fuadleye.netlify.app](fuadleye.netlify.app)
+- 👨‍💻 All of my projects are available at [thefuadeniola.vercel.app](thefuadeniola.vercel.app)
 
 - 💬 Ask me about **react, next js, javascript**
 
