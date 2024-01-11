@@ -39,10 +39,10 @@
 
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=theylovefuad&count_private=true&theme=radical&show_icons=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=thefuadeniola&count_private=true&theme=radical&show_icons=true" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theylovefuad)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thefuadeniola)](https://github.com/anuraghazra/github-readme-stats)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=theylovefuad" alt="theylovefuad" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thefuadeniola" alt="theylovefuad" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/theylovefuad" target="blank"><img src="https://img.shields.io/twitter/follow/theylovefuad?logo=twitter&style=for-the-badge" alt="theylovefuad" /></a> </p>
