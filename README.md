@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Olaleye Fuad</h1>
-<h3 align="center">Frontend Developer from Lagos, Nigeria</h3>
-<a align="right" href="https://thefuadeniola.vercel.app"><img src="https://i.ibb.co/tck5DXZ/x-Post-Landscape.png" alt="x-Post-Landscape" border="0"></a>
+<h3 align="center">Fullstack Developer from Lagos, Nigeria</h3>
 
 
 
