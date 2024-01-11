@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Olaleye Fuad</h1>
 <h3 align="center">Frontend Developer from Lagos, Nigeria</h3>
-<img align="right" alt="astro" width="400" src="https://drive.google.com/file/d/1dLn6ryeLu0HBhqZd-YkEylB_BnueEYwg/view?usp=drivesdk">
+<a href="https://thefuadeniola.vercel.app"><img src="https://i.ibb.co/tck5DXZ/x-Post-Landscape.png" alt="x-Post-Landscape" border="0"></a>
 
 
 
