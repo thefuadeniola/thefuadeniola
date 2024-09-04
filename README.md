@@ -3,9 +3,9 @@
 
 
 
-- 🔭 I’m currently working on **GitHub Wrapped**, stay tuned
+- 🔭 I’m currently working on **deploying applications to the blockchain**, stay tuned
 
-- 🌱 I’m currently learning **Node JS**
+- 🌱 I’m currently learning **Solidity and Ethereum development**
 
 - 👨‍💻 All of my projects are available at [thefuadeniola.vercel.app](thefuadeniola.vercel.app)
 
