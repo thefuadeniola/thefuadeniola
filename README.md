@@ -8,8 +8,6 @@
 
 - 💬 Ask me about **backend, frontend, systems programming and blockchain technology**
 
-- 📫 How to reach me **leyefuad@gmail.com**
-
 - ⚡ Fun fact **follow me to find out!**
 
 <h3 align="left">Connect with me:</h3>
